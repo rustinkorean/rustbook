@@ -35,6 +35,8 @@ is the first. After this:
 
 ### Contributing
 
+[![Join the chat at https://gitter.im/rustinkorean/rustbook](https://badges.gitter.im/rustinkorean/rustbook.svg)](https://gitter.im/rustinkorean/rustbook?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The source files from which this book is generated can be found on
 [GitHub][book].
 
